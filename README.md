@@ -14,17 +14,27 @@ This project reviews the different aspects below.
  - Model training : 10h on CPU for each model, on 2000 training photos
  - Evaluating predictions, comparing results between both models.
 
-<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_1.png>
-<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_2.png>
-<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_3.png>
-<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_4.png>
-<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_5.png>
-<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_6.png>
-<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_7.png>
-<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_8.png>
-<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_9.png>
-<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_10.png>
-<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_11.png>
-<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_12.png>
+## Examples
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/blob/main/images/Figure_1.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/blob/main/images/Figure_2.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/blob/main/images/Figure_3.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/blob/main/images/Figure_4.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/blob/main/images/Figure_5.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/blob/main/images/Figure_6.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/blob/main/images/Figure_7.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/blob/main/images/Figure_8.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/blob/main/images/Figure_9.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/blob/main/images/Figure_10.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/blob/main/images/Figure_11.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/blob/main/images/Figure_12.png>
 
+## Analysis
+Here are the loss and the accuracy for each model :
++-----+-----+-----+
+||Loss|Accuracy|
+|Autoencoder|0.00312|0.747|
+|ResNet|0.00335|0.719|
+|U-Net|0.00350|0.755|
+
+Accuracy seems to be a surprisingly good metric because, despite its highest loss, the U-Net model obtains the best results.
 
