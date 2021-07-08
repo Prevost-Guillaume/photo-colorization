@@ -41,6 +41,7 @@ Here are the loss and the accuracy for each model :
 |ResNet|0.00335|0.719|
 |U-Net|0.00350|0.755|
 
+
 Accuracy seems to be a surprisingly good metric because, despite its highest loss, the U-Net model obtains the best results.
 
 ## Conclusion
