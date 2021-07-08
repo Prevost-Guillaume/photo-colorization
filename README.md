@@ -14,5 +14,17 @@ This project reviews the different aspects below.
  - Model training : 10h on CPU for each model, on 2000 training photos
  - Evaluating predictions, comparing results between both models.
 
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_1.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_2.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_3.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_4.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_5.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_6.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_7.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_8.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_9.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_10.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_11.png>
+<img src=https://github.com/Prevost-Guillaume/photo-colorization/Figure_12.png>
 
-More coming soon !
+
