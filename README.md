@@ -35,11 +35,12 @@ The autoencoder and the ResNet are very similar. The ResNet just tends to put a 
 
 Here are the loss and the accuracy for each model :
 
-|:-------------------------:|:-------------------------:|:-------------------------:|
-||Loss|Accuracy|
-|Autoencoder|0.00312|0.747|
-|ResNet|0.00335|0.719|
-|U-Net|0.00350|0.755|
+| model  | Loss  | Accuracy |
+| ------------- | ------------- | ------------- |
+| Autoencoder  | 0.00312  | 0.747  |
+| ResNet  | 0.00335  | 0.719  |
+| U-Net  | 0.00350  | 0.755  |
+
 
 
 Accuracy seems to be a surprisingly good metric because, despite its highest loss, the U-Net model obtains the best results.
