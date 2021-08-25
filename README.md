@@ -47,6 +47,7 @@ Accuracy seems to be a surprisingly good metric because, despite its highest los
 
 ## Conclusion
 Despite the ubiquity of autoencoders in the image colorization task in the literature, the U-Net model seems extremely promising, because it takes more risks. 
-It should be verified that this tendency is also manifested in all types of colorisaton (not only in restricted areas like mountains)
+It should be verified that this tendency is also manifested in all types of colorisaton (not only in restricted areas like mountains).
+
 An axis of improvement is to train the models on more data.
 
